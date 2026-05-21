@@ -1,5 +1,9 @@
 # QuadraFast — Diagnóstico Arquitetural e Evolução de APIs
 
+## Integrantes :
+- Kaio Vinicius Meireles Alves - RM: 553282
+- Lucas Alves de Souza - RM: 553956
+
 ## Como rodar
 
 ```bash
